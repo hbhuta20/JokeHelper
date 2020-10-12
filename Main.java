@@ -20,7 +20,7 @@ class Main {
     }
     double funnyScore = 0.0;
 
-    while (funnyScore<9.0){
+    while (funnyScore<9.0){ //This is the while loops
       System.out.println("How funny were the jokes? Rate from 0.0 to 10.0? (double)");
       funnyScore= sc.nextDouble();
     }
