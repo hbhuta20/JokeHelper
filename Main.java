@@ -24,7 +24,7 @@ class Main {
       System.out.println("How funny were the jokes? Rate from 0.0 to 10.0? (double)"); 
       funnyScore= sc.nextDouble();
     }
-    System.out.println("Thank you for visiting");
+    System.out.println("Thank you for visiting");// I ended the whole code with a small greeting.
 
 
 
