@@ -8,7 +8,7 @@ class Main {
     int numJokes = sc.nextInt();
     sc.nextLine();
 
-    for(int x=0; x < numJokes; x++){ //Here we are adding if and else statements 
+    for(int x=0; x < numJokes; x++){ // This is for loops
       System.out.println("Give me an adjective");
       String adjective = sc.nextLine();
       if(adjective == "Fat" || (numJokes > 2 && numJokes < 4)){// Here we added the conditions for the if and else statements.
